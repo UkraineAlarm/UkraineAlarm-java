@@ -1,4 +1,4 @@
-# Ukraine Alert API
+# UkraineAlarm - the Java library for the [Ukraine Alert API](https://api.ukrainealarm.com/)
 
 - API version: 3.0
 
