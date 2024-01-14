@@ -1,6 +1,5 @@
-# swagger-java-client
+# Ukraine Alert API
 
-Ukraine Alert API
 - API version: 3.0
 
 ## Requirements
